@@ -1,0 +1,3 @@
+## GASを利用して、Backlog登校時に自動でGoogle Chat通知を実施するプログラム
+
+BacklogにてWebhock機能を利用し、GASのプログラムを呼び出す。
